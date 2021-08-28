@@ -1,1 +1,6 @@
 /* This is the css file */
+* {
+  border-style: border-box;
+  margin: none;
+  padding: none;
+}
