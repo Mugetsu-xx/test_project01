@@ -4,3 +4,8 @@
   margin: none;
   padding: none;
 }
+
+h1 {
+  padding: 10rem;
+  margin-top: 5rem;
+}
